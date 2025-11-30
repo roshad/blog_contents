@@ -5,4 +5,4 @@ tags:
   - git
 ---
 - 将被容纳的文件夹，创建为git 独立的repo。然后分别将其添加为两repo的 submodule
-- 语法为 git submodule add <url_of_blog_content_repo> <repo_path> <想要的路径>
+- 语法为 git submodule add <uri_of_subrepo> <superproject中被放置的路径>
