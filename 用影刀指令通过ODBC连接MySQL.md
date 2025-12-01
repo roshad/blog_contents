@@ -1,11 +1,8 @@
 ---
 title: 用影刀指令通过ODBC连接MySQL
-
 date: 2025-09-05
-
-
 tags:
-  - 影刀
+  - 自动化/RPA/影刀
 ---
 
 - ODBC 是 **开放式数据库连接**（**Open Database Connectivity**）的缩写。 允许应用程序通过一套统一的接口访问各种不同的数据库系统（无论是 MySQL、SQL Server、还是 Oracle）。
