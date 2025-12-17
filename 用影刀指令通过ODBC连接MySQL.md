@@ -1,6 +1,6 @@
 ---
 title: 用影刀指令通过ODBC连接MySQL
-date: 2025-09-05
+date: 2025-12-01
 tags:
   - 自动化/RPA/影刀
 ---
