@@ -2,7 +2,7 @@
 title: 中国大陆“百元内+百兆峰值带宽”VPS 方案探索
 date: 2025-01-22
 tags:
-  - AI
+  - vps
 ---
 - 来源： [microThinker](https://dr.miromind.ai/share/22c8bff1-bfe5-4442-b2cc-99b9bb6c69ec)探索到了小众选项>千问、秘塔没找到
 ### 汇总
