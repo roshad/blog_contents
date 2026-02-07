@@ -2,7 +2,8 @@
 tags:
   - AI
 date created: 260203
-date modified: 260204
+date modified: 260207
+title: Bench：Coding 和Agentic的区别
 ---
 ### 1. 什么是 Coding Index（纯代码能力）？
 
