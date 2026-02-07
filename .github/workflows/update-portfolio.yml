@@ -14,4 +14,5 @@ jobs:
         curl -X POST https://api.github.com/repos/roshad/portfolio/dispatches \
         -H "Accept: application/vnd.github.v3+json" \
         -H "Authorization: token ${{ secrets.PERSONAL_ACCESS_TOKEN }}" \
+        --fail \ 
         -d '{"event_type": "update-submodule"}'
