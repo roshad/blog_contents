@@ -1,6 +1,7 @@
 ---
 date created: 260206
 date modified: 260207
+title: BDD、TDD？还是SDD
 ---
 - **“AI 时代的 BDD”，其实就是“写清楚你想要什么（Spec/Prompt），然后让 AI 给你写个带有测试的实现”**，即是SDD。
  - TDD（测试驱动开发）和 BDD（行为驱动开发）经常被放在一起讨论，甚至 BDD 被认为是 TDD 的进化版，但它们解决的是**完全不同维度的问题**。
