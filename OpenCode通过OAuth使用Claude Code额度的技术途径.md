@@ -1,5 +1,5 @@
 ---
-title: OpenCode 利用OAuth使用Claude Code额度的技术途径
+title: OpenCode利用OAuth使用Claude Code额度的技术途径
 date created: 260208
 date modified: 260208
 ---
