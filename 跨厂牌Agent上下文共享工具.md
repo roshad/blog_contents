@@ -1,7 +1,7 @@
 ---
-title: Untitled
+title: 跨厂牌Agent上下文共享工具
 date created: 260209
-date modified: 260209
+date modified: 260210
 ---
 - **内存/记忆管理类 (Memory Management):**
     - **Mem0 (原 Embedchain):** 专注于为 Agent 提供“个性化记忆”，记住用户的偏好、事实和历史。
