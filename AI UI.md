@@ -1,7 +1,9 @@
 ---
 title: AI UI
 date created: 260210
-date modified: 260210
+date modified: 260223
+tags:
+  - AI
 ---
 - [Design Prompts](https://www.designprompts.dev/)  风格网站示例
 - [Godly ](https://godly.website/) 顶级设计示例
